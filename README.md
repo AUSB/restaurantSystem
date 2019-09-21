@@ -5,9 +5,9 @@ of the customer as inputs.
 customer.
 1
 • Create a class called Restaurant.
-• Write a method addsale that takes customer name and purchase amount of the
+• Write a method add sale that takes customer name and purchase amount of the
 customer in the class restaurant.
-• WriteamethodnameBestCustomerthatreturnscustomernamewhoboughthighest
+• Write a method name BestCustomer that returns customer name who bought highest
 sale in the restaurant.
-• Writeatesterclassthatpromptstheusertoenternameandpurchaseofthecustomers
+• Write a tester class that prompts the user to enter name and purchase of the customers
 and display the name of the customer who bought highest sales in the restaurant. Import java.util.Scanner.
